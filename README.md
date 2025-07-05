@@ -25,7 +25,7 @@ An intuitive web-based resume builder that allows users to create, preview, and 
 ---
 
 ## 📁 Folder Structure
-resume-builder
+resume-builder                                        
  ├── index.html          
  ├── script/              
  │ └── main.js                       
