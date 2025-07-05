@@ -26,11 +26,11 @@ An intuitive web-based resume builder that allows users to create, preview, and 
 
 ## 📁 Folder Structure
 resume-builder/
-├── index.html
-├── script/
-│ └── main.js
-├── style/
-│ └── style.css
-├── assets/
-│ └── default-profile.png
-└── README.md
+ ├── index.html
+ ├── script/
+ │ └── main.js
+ ├── style/
+ │ └── style.css
+ ├── assets/
+ │ └── default-profile.png
+ └── README.md
